@@ -6,4 +6,4 @@ except ValueError:
     print("Lütfen geçerli bir sayı giriniz.")
 except ZeroDivisionError:
     print("işlem hatası")
-    print("sıfıra bölünme hatası")
+    print("sıfıra bölünme hatası fasf")
